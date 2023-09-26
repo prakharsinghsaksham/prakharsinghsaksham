@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📝 I regularly write articles on [https://medium.com/@prakharsakshamsingh11](https://medium.com/@prakharsakshamsingh11)
 
